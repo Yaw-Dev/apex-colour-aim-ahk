@@ -3,7 +3,7 @@
 This is a simple and free Colour Aimbot script for <b>Apex Legends</b>.
 It is completely safe to use and UNDETECTED.
 <br>
-Note: I'm not the original creator! Credits to <b>od9m#2269</b>
+Note: I'm not the original creator! Credits to <b>od8m#0666</b>
 <br>
 <br>
 
