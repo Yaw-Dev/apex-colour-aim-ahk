@@ -28,7 +28,7 @@ If you are interested in more Apex Legends Scripts I recommend trying out <a hre
 <br>
 This repository was created for the sole purpose of distributing this project's <b>Source Code</b> to the public
 <br>
-You can find the compiled (.exe) version of the script on <a href="https://cheatermad.com/apex-legends-colour-aimbot-ahk-script/">CheaterMad.com</a>
+You can find the full version (NoRecoil included) on <a href="https://cheatermad.com/apex-legends-colour-aimbot-ahk-script/">CheaterMad.com</a> & <a href="https://cheater.ninja/apex-legends-multi-script-norecoil/">Cheater.Ninja</a>
 <br>
 <br>
 Check out my <b>CheaterMad</b> profile as well as all the cheats I have verified and uploaded <a href="https://cheatermad.com/user/aweirdkid/">here</a>.
