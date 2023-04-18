@@ -1,7 +1,7 @@
 <h1>Apex Legends Colour Aimbot</h1>
 
 This is a simple and free Colour Aimbot script for <b>Apex Legends</b>.
-It is completely safe to use and UNDETECTED.
+This script is Detected and can get you banned (as of Season 13).
 <br>
 Note: I'm not the original creator! Credits to <b>od8m#0666</b>
 <br>
@@ -34,5 +34,3 @@ You can find the full version (NoRecoil included) on <a href="https://cheatermad
 Check out my <b>CheaterMad</b> profile as well as all the cheats I have verified and uploaded <a href="https://cheatermad.com/user/aweirdkid/">here</a>.
 <br>
 <hr>
-
-For business inquiries / support, contact me on Discord: <b>A WeirD KiD#0119</b>
